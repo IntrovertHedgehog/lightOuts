@@ -1,0 +1,12 @@
+NAM
+20
+HAN
+50
+AAA
+26
+AAA
+27
+HLM
+9
+AIM
+99
